@@ -1,0 +1,19 @@
+{
+  "name": "metatest",
+  "version": "1.0.0",
+  "description": "Testa backend for meta",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test",
+    "meta",
+    "node"
+  ],
+  "author": "Marcos Martins",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
